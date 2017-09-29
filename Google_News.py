@@ -19,8 +19,3 @@ def news():
 			print(news.link.text)
 			print(news.pubDate.text)
 			print("-"*150)
-	n=input()
-
-
-
-news()	
